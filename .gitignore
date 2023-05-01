@@ -1,0 +1,7 @@
+# created by virtualenv automatically
+*
+
+!.gitignore
+!README.md
+!rekognition.py
+!requirements.txt
